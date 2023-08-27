@@ -1,0 +1,17 @@
+.container{
+    margin : auto
+}
+
+.title-about{
+    text-align: center;
+    margin-top: 140px;
+}
+
+.content-about{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+}
+
+
