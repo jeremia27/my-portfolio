@@ -5,7 +5,7 @@ import NavBot from './components/Pages/NavBot/NavBoot';
 import Project from './components/Pages/Project/Project';
 import About from './components/Pages/About/About';
 import MyTimeline from './components/Pages/Timeline/MyTimeline';
-import MyContact from './components/Pages/Contact/MyContact';
+import Footer from './components/Pages/Footer/Footer';
 
 
 
@@ -17,7 +17,7 @@ function App() {
       <About />
       <MyTimeline/>
       <Project />
-      <MyContact/>
+      <Footer/>
     </>
   );
 }
