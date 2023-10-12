@@ -11,14 +11,14 @@ export default function Home() {
                 <p className='section-txt-p1'>Hello, I'm</p>
                 <h1 className='title-home'>Jeremia</h1>
                 <p className='section-txt-p2'>Frontend Developer React.js</p>
-                <div className='btn-container'>
+                {/* <div className='btn-container'>
                     <button className='btn btn-color-1'>
                         Download CV
                     </button>
                     <button className='btn btn-color-2'>
                         Contact Info
                     </button>
-                </div>
+                </div> */}
             </div>
             <div className='content-img'>
                 <Image roundedCircle src={Profile} style={{

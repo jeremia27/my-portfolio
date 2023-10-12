@@ -47,7 +47,7 @@ function Project() {
             </Col>
             <Col lg={{ span: 4, offset: 0 }}>
               <Card className='card-experience' style={{ height: 350 }}>
-                <Card.Img variant="top" style={{ height: 130 }} src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ" />
+                <Card.Img variant="top" style={{ height: 130 }} src="https://i0.wp.com/customspedia.com/wp-content/uploads/2023/08/Peningkatan-Pelayanan-Terintegrasi-Melalui-CEISA-4.0-oleh-Bea-Cukai.png?ssl=1" />
                 <Card.Body>
                   <Card.Title style={{ marginBottom: 30 }}>CEISA Project</Card.Title>
                   <Card.Text style={{ marginBottom: 10, font: 'initial' }}>Direktorat Jenderal Bea & Cukai</Card.Text>
