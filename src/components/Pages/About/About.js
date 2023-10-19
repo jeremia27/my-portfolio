@@ -17,7 +17,7 @@ export default function About() {
                             <Card.Body >
                                 <Card.Title>Experience</Card.Title>
                                 <Card.Text> 1 Years 10 Month - Fullstack Developer
-                                    8 Month - Frontend Developer React.js
+                                    1 Years - Frontend Developer React.js
                                 </Card.Text>
                             </Card.Body>
                         </Card>
