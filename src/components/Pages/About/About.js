@@ -1,7 +1,6 @@
 import React from 'react'
 import './About.css'
 import { Col, Row } from 'react-bootstrap'
-import Card from 'react-bootstrap/Card';
 
 export default function About() {
     return (
