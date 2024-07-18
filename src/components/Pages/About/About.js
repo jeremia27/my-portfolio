@@ -11,7 +11,7 @@ export default function About() {
                 <p className='content-about'>
                     Hello! My name is Jeremia Sibarani. I am proud to be a graduate of Del Institute of Technology with a background in the D3 Computer Technology department. Currently, I am passionately embarking on a journey in the world of web development, particularly in the frontend area.
                 </p>
-                <Row className='justify-content-md-center'>
+                {/* <Row className='justify-content-md-center'>
                     <Col lg='4'>
                         <Card border="secondary" style={{ height: 120 }}>
                             <Card.Body >
@@ -30,7 +30,7 @@ export default function About() {
                             </Card.Body>
                         </Card>
                     </Col>
-                </Row>
+                </Row> */}
             </Col>
         </Row>
     )

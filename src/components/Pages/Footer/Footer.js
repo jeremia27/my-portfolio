@@ -38,7 +38,7 @@ export default function Footer() {
                     <Row style={{ marginTop: 50 }}>
                         <Col>
                             <p className='text-footer'>
-                                &copy; 2023 Sibarani-Dev. All rights reserved. Designed by Jeremia.
+                                &copy; 2024 Sibarani-Dev. All rights reserved. Designed by Jeremia.
                             </p>
                             <p className='text-footer'>
                                 <a href='#email' className='email-footer'  style={{marginRight : 10}}>

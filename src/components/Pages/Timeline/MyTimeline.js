@@ -19,7 +19,7 @@ export default function MyTimeline() {
           <TimelineConnector />
         </TimelineSeparator>
         <TimelineContent sx={{ py: '12px', px: 2 }}>
-          <Typography variant="h6" component="span">
+          <Typography variant="h6" component="span" style={{color: "#254336"}}>
             Bootcamp Java
           </Typography>
           <Typography>Feb 2021</Typography>
@@ -31,8 +31,8 @@ export default function MyTimeline() {
           <TimelineDot variant="outlined" color="primary" />
           <TimelineConnector />
         </TimelineSeparator>
-        <TimelineContent sx={{ py: '12px', px: 2 }}>
-          <Typography variant="h6" component="span">
+        <TimelineContent sx={{ py: '12px', px: 2 }} >
+          <Typography variant="h6" component="span" style={{color: "#059212"}}>
             Bitozen Technology
           </Typography>
           <Typography>Fullstack Developer</Typography>
@@ -47,11 +47,40 @@ export default function MyTimeline() {
           <TimelineConnector />
         </TimelineSeparator>
         <TimelineContent sx={{ py: '12px', px: 2 }}>
-          <Typography variant="h6" component="span">
+          <Typography variant="h6" component="span" style={{color: "#3FA2F6"}}>
             TOG Indonesia
           </Typography>
           <Typography>Frontend Developer</Typography>
-          <Typography>Nov 2022 - Present</Typography>
+          <Typography>Nov 2022 - Des 2023</Typography>
+        </TimelineContent>
+      </TimelineItem>
+      <TimelineItem>
+        <TimelineSeparator>
+          <TimelineConnector />
+          <TimelineDot variant="outlined" color="primary" />
+          <TimelineConnector />
+        </TimelineSeparator>
+        <TimelineContent sx={{ py: '12px', px: 2 }}>
+          <Typography variant="h6" component="span" style={{color: "#3FA2F6"}}>
+            TOG Indonesia
+          </Typography>
+          <Typography>Fullstack Developer</Typography>
+          <Typography>Jan 2024 - Feb 2024</Typography>
+        </TimelineContent>
+      </TimelineItem>
+      <TimelineItem>
+        <TimelineSeparator>
+          <TimelineConnector />
+          <TimelineDot variant="outlined" color="secondary">
+          </TimelineDot>
+          <TimelineConnector />
+        </TimelineSeparator>
+        <TimelineContent sx={{ py: '12px', px: 2 }}>
+          <Typography variant="h6" component="span" style={{color: "red"}}>
+            AIA Financial
+          </Typography>
+          <Typography>Application Engineer Java</Typography>
+          <Typography>Marc 2024 - Present</Typography>
         </TimelineContent>
       </TimelineItem>
     </Timeline>
